@@ -6,6 +6,7 @@ import java.util.Random;
  * Clase de ajedrez.
  * @author Marisa Ruiz Garcia
  */
+ //prueba de cambio de raul
 public class Ajedrez {
 
     /**
